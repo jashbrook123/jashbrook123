@@ -1,16 +1,20 @@
-## Hi there 👋
+## Whatsup brother ☝️
 
-<!--
-**jashbrook123/jashbrook123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a student currently doing A-Levels in the UK. _A* A* A B_.
 
-Here are some ideas to get you started:
+- I love to learn, and would love a future in offensive cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy creating whatever comes to my mind, and if I have the time, I'll end up creating it.
+
+- I use a mixture of Python and Adobe Photoshop to create my projects, sprinkling in a few bits of GLSL every now and then.
+
+- My favourite project is my [3D chess game](https://github.com/jashbrook123/3D-with-chess).
+ 
+- Currently trying to learn rust, and welcome any help and/or offer to help others.
+
+- 🎶 I can also play a few instruments:
+  - French horn
+  - Drum kit
+  - All percussion (tuned and non-tuned)
+  - Piano
+  - Trumpet
